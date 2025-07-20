@@ -1,5 +1,5 @@
 
-# Manual Testing Portfolio - Mudassar Memon
+# Manual Testing Portfolio
 
 This repository showcases manual testing projects done as part of my software testing training. All projects are created with real-world QA documentation practices.
 
